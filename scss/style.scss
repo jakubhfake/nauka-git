@@ -22,16 +22,30 @@ body {
 
 .container {
     position: relative;
-    max-width: 570px;
-    padding: 0 20px;
+    padding: 20px 20px;
+    max-width: 100%;
     margin: auto;
 }
 
 .page-title {
     background: $color-two;
+    padding: 10px 0;
+    max-width: 50%;
+    
 }
 
 .page-subtitle {
     color: red;
+    padding: 10px 0;
+    background: green;
+    max-width: 50%;
+}
+
+.container p{
+    
+}
+
+.p-end {
+    padding-bottom: 30px;
 
 }
