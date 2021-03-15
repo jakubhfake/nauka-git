@@ -1,0 +1,32 @@
+/* Variables */
+/* blue */
+/* light-green */
+/* red */
+/* white */
+/* Global */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #2c2c54;
+  font-family: "Inconsolata", sans-serif;
+}
+
+.container {
+  position: relative;
+  max-width: 570px;
+  padding: 0 20px;
+  margin: auto;
+}
+
+.page-title {
+  background: #33d9b2;
+}
+
+.page-subtitle {
+  color: red;
+}
