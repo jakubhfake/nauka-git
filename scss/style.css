@@ -5,7 +5,8 @@
 /* white */
 /* Global */
 *, *::before, *::after {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 body {
@@ -44,3 +45,4 @@ body {
 .p-end {
   padding-bottom: 30px;
 }
+/*# sourceMappingURL=style.css.map */
