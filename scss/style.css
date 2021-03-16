@@ -30,9 +30,9 @@ body {
 }
 
 .page-subtitle {
-  color: red;
+  color: purple;
   padding: 10px 0;
-  background: green;
+  background: lightgray;
   max-width: 50%;
 }
 
