@@ -36,6 +36,11 @@ body {
   max-width: 50%;
 }
 
+.container p {
+  font-family: "Signika", sans-serif;
+  font-size: 20px;
+}
+
 .p-end {
   padding-bottom: 30px;
 }

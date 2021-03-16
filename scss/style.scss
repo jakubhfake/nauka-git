@@ -1,5 +1,6 @@
 /* Variables */
 $font-text: 'Inconsolata', sans-serif;
+$fint-song: 'Signika', sans-serif;
 
 $color-one:#0097e6; /* blue */
 $color-two: #33d9b2; /* light-green */
@@ -42,7 +43,8 @@ body {
 }
 
 .container p{
-    
+    font-family: $fint-song;
+    font-size: 20px;
 }
 
 .p-end {
